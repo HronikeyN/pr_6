@@ -1,0 +1,7 @@
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\bin\Debug\pr 6.exe.config
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\bin\Debug\pr 6.exe
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\bin\Debug\pr 6.pdb
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\obj\Debug\pr 6.csproj.AssemblyReference.cache
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\obj\Debug\pr 6.csproj.CoreCompileInputs.cache
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\obj\Debug\pr 6.exe
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\пр6\pr 6\obj\Debug\pr 6.pdb
